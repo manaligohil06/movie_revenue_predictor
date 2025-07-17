@@ -72,4 +72,5 @@ The goal of this project is to build a machine learning model that predicts the 
 
 ## Contact
 **Manali Gohil** 
+
 [LinkedIn](https://www.linkedin.com/in/manaligohil06/) | [Email](mailto:manaligohil06@email.com)
