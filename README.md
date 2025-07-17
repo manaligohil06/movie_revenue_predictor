@@ -10,6 +10,7 @@ A data analysis and machine learning project that predicts movie revenue based o
 - [Modeling](#modeling)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
+- [Contact](#contact)
 
 ---
 
@@ -68,3 +69,6 @@ The goal of this project is to build a machine learning model that predicts the 
 - **Joblib** for model saving
 
 ---
+
+## Contact
+[LinkedIn](www.linkedin.com/in/manaligohil06) | [Email](mailto:manaligohil06@email.com)
